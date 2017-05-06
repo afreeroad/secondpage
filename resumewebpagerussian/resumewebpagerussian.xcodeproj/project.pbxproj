@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		CD0B3E811EBE0B290050CED6 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = assets; path = ../assets; sourceTree = "<group>"; };
+		CD0B3E821EBE0B290050CED6 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
+		CD0B3E831EBE0B290050CED6 /* Read me.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "Read me.txt"; path = "../Read me.txt"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		CD0B3E7A1EBE0B0A0050CED6 = {
+			isa = PBXGroup;
+			children = (
+				CD0B3E811EBE0B290050CED6 /* assets */,
+				CD0B3E821EBE0B290050CED6 /* index.html */,
+				CD0B3E831EBE0B290050CED6 /* Read me.txt */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CD0B3E7B1EBE0B0A0050CED6 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = CD0B3E7E1EBE0B0A0050CED6 /* Build configuration list for PBXProject "resumewebpagerussian" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CD0B3E7A1EBE0B0A0050CED6;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CD0B3E7F1EBE0B0A0050CED6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CD0B3E801EBE0B0A0050CED6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD0B3E7E1EBE0B0A0050CED6 /* Build configuration list for PBXProject "resumewebpagerussian" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0B3E7F1EBE0B0A0050CED6 /* Debug */,
+				CD0B3E801EBE0B0A0050CED6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD0B3E7B1EBE0B0A0050CED6 /* Project object */;
+}
